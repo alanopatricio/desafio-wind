@@ -1,6 +1,6 @@
 # DESAFIO-WIND
 
-1 - Entrar no site http://dados.tce.rs.gov.br/organization/tribunal-de-contas-do-estado-do-rio-grande-do-sul e localizar o Item Contratos Consolidado 2022, navegar até o link de download e baixar o arquivo. 
+1 - Entrar no site http://dados.tce.rs.gov.br/organization/tribunal-de-contas-do-estado-do-rio-grande-do-sul e localizar o Item Licitações Consolidado 2022, navegar até o link de download e baixar o arquivo. 
 
 ![image](https://user-images.githubusercontent.com/98180262/173396529-686a3a06-60bf-48df-a204-dea8fe5508f1.png)
 
@@ -20,6 +20,6 @@
 ![image](https://user-images.githubusercontent.com/98180262/171285240-1c841e0b-8545-4e66-b1d3-53ddfb1cb514.png)
  
 6 – Criar arquivo itens-licitacao.csv dentro do diretório da licitação respectiva com os itens da licitação com base no arquivo item.csv.
-Combinar CD_ORGAO, NM_ORGAO, NR_LICITACAO, ANO_LICITACAO, CD_TIPO_MODALIDADE para retornar os itens da licitação.
+Combinar CD_ORGAO, NR_LICITACAO, ANO_LICITACAO, CD_TIPO_MODALIDADE para retornar os itens da licitação.
 
 ![image](https://user-images.githubusercontent.com/98180262/171285273-e25123e4-b9fa-4822-893b-a748aaf11e6c.png)
